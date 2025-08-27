@@ -1,0 +1,40 @@
+version: '3.9'
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: insurance-db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  proposal-api:
+    build: ./proposal-service/InsuranceServicesHex.Proposal.Api
+    container_name: proposal-api
+    environment:
+      ASPNETCORE_URLS: http://+:80
+      ConnectionStrings__DefaultConnection: Host=postgres;Port=5432;Database=proposals;Username=postgres;Password=postgres
+    depends_on:
+      - postgres
+    ports:
+      - "8081:80"
+
+  contract-api:
+    build: ./contract-service/InsuranceServicesHex.Contract.Api
+    container_name: contract-api
+    environment:
+      ASPNETCORE_URLS: http://+:80
+      ConnectionStrings__DefaultConnection: Host=postgres;Port=5432;Database=contracts;Username=postgres;Password=postgres
+      Services__ProposalBaseUrl: http://proposal-api
+    depends_on:
+      - postgres
+      - proposal-api
+    ports:
+      - "8082:80"
+
+volumes:
+  pgdata:

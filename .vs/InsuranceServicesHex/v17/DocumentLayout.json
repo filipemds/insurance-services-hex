@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB1E1EE-A938-40DB-94F5-77732E308177}|contract-service\\InsuranceServicesHex.Contract.Tests\\InsuranceServicesHex.Contract.Tests.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\insuranceserviceshex.contract.tests\\tests\\contractservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB1E1EE-A938-40DB-94F5-77732E308177}|contract-service\\InsuranceServicesHex.Contract.Tests\\InsuranceServicesHex.Contract.Tests.csproj|solutionrelative:contract-service\\insuranceserviceshex.contract.tests\\tests\\contractservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0290F5DC-E5B0-47D2-92B5-23696E3B870A}|contract-service\\InsuranceServicesHex.Contract.Infrastructure\\InsuranceServicesHex.Contract.Infrastructure.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\insuranceserviceshex.contract.infrastructure\\repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0290F5DC-E5B0-47D2-92B5-23696E3B870A}|contract-service\\InsuranceServicesHex.Contract.Infrastructure\\InsuranceServicesHex.Contract.Infrastructure.csproj|solutionrelative:contract-service\\insuranceserviceshex.contract.infrastructure\\repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D23272-5AB4-4B17-B037-9372412C846A}|contract-service\\InsuranceServicesHex.Contract.Application\\InsuranceServicesHex.Contract.Application.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\insuranceserviceshex.contract.application\\services\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D23272-5AB4-4B17-B037-9372412C846A}|contract-service\\InsuranceServicesHex.Contract.Application\\InsuranceServicesHex.Contract.Application.csproj|solutionrelative:contract-service\\insuranceserviceshex.contract.application\\services\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0290F5DC-E5B0-47D2-92B5-23696E3B870A}|contract-service\\InsuranceServicesHex.Contract.Infrastructure\\InsuranceServicesHex.Contract.Infrastructure.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\insuranceserviceshex.contract.infrastructure\\context\\contractdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0290F5DC-E5B0-47D2-92B5-23696E3B870A}|contract-service\\InsuranceServicesHex.Contract.Infrastructure\\InsuranceServicesHex.Contract.Infrastructure.csproj|solutionrelative:contract-service\\insuranceserviceshex.contract.infrastructure\\context\\contractdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1A96F0-2B6D-4EDB-BE07-EA9B3D62C316}|contract-service\\InsuranceServicesHex.Contract.Domain\\InsuranceServicesHex.Contract.Domain.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\insuranceserviceshex.contract.domain\\entities\\contractentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1A96F0-2B6D-4EDB-BE07-EA9B3D62C316}|contract-service\\InsuranceServicesHex.Contract.Domain\\InsuranceServicesHex.Contract.Domain.csproj|solutionrelative:contract-service\\insuranceserviceshex.contract.domain\\entities\\contractentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1CF008-134B-4700-8A46-053E3C1C45BE}|proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\InsuranceServicesHex.Proposal.Infrastructure.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\insuranceserviceshex.proposal.infrastructure\\repositories\\proposalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1CF008-134B-4700-8A46-053E3C1C45BE}|proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\InsuranceServicesHex.Proposal.Infrastructure.csproj|solutionrelative:proposal-service\\insuranceserviceshex.proposal.infrastructure\\repositories\\proposalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1CF008-134B-4700-8A46-053E3C1C45BE}|proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\InsuranceServicesHex.Proposal.Infrastructure.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\insuranceserviceshex.proposal.infrastructure\\insuranceserviceshex.proposal.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B1CF008-134B-4700-8A46-053E3C1C45BE}|proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\InsuranceServicesHex.Proposal.Infrastructure.csproj|solutionrelative:proposal-service\\insuranceserviceshex.proposal.infrastructure\\insuranceserviceshex.proposal.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1CF008-134B-4700-8A46-053E3C1C45BE}|proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\InsuranceServicesHex.Proposal.Infrastructure.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\insuranceserviceshex.proposal.infrastructure\\context\\proposaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1CF008-134B-4700-8A46-053E3C1C45BE}|proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\InsuranceServicesHex.Proposal.Infrastructure.csproj|solutionrelative:proposal-service\\insuranceserviceshex.proposal.infrastructure\\context\\proposaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EC5F23-B834-4B4A-BB06-319108F90148}|proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\insuranceserviceshex.proposal.application\\services\\proposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EC5F23-B834-4B4A-BB06-319108F90148}|proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj|solutionrelative:proposal-service\\insuranceserviceshex.proposal.application\\services\\proposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EC5F23-B834-4B4A-BB06-319108F90148}|proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\insuranceserviceshex.proposal.application\\interfaces\\iproposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EC5F23-B834-4B4A-BB06-319108F90148}|proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj|solutionrelative:proposal-service\\insuranceserviceshex.proposal.application\\interfaces\\iproposalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EC5F23-B834-4B4A-BB06-319108F90148}|proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\insuranceserviceshex.proposal.application\\interfaces\\iproposalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EC5F23-B834-4B4A-BB06-319108F90148}|proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj|solutionrelative:proposal-service\\insuranceserviceshex.proposal.application\\interfaces\\iproposalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19100745-5877-48AB-B329-77265BB5B712}|proposal-service\\InsuranceServicesHex.Proposal.Domain\\InsuranceServicesHex.Proposal.Domain.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\insuranceserviceshex.proposal.domain\\entities\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19100745-5877-48AB-B329-77265BB5B712}|proposal-service\\InsuranceServicesHex.Proposal.Domain\\InsuranceServicesHex.Proposal.Domain.csproj|solutionrelative:proposal-service\\insuranceserviceshex.proposal.domain\\entities\\proposal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19100745-5877-48AB-B329-77265BB5B712}|proposal-service\\InsuranceServicesHex.Proposal.Domain\\InsuranceServicesHex.Proposal.Domain.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\insuranceserviceshex.proposal.domain\\insuranceserviceshex.proposal.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19100745-5877-48AB-B329-77265BB5B712}|proposal-service\\InsuranceServicesHex.Proposal.Domain\\InsuranceServicesHex.Proposal.Domain.csproj|solutionrelative:proposal-service\\insuranceserviceshex.proposal.domain\\insuranceserviceshex.proposal.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D23272-5AB4-4B17-B037-9372412C846A}|contract-service\\InsuranceServicesHex.Contract.Application\\InsuranceServicesHex.Contract.Application.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\insuranceserviceshex.contract.application\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D23272-5AB4-4B17-B037-9372412C846A}|contract-service\\InsuranceServicesHex.Contract.Application\\InsuranceServicesHex.Contract.Application.csproj|solutionrelative:contract-service\\insuranceserviceshex.contract.application\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D23272-5AB4-4B17-B037-9372412C846A}|contract-service\\InsuranceServicesHex.Contract.Application\\InsuranceServicesHex.Contract.Application.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\insuranceserviceshex.contract.application\\interfaces\\icontractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D23272-5AB4-4B17-B037-9372412C846A}|contract-service\\InsuranceServicesHex.Contract.Application\\InsuranceServicesHex.Contract.Application.csproj|solutionrelative:contract-service\\insuranceserviceshex.contract.application\\interfaces\\icontractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D23272-5AB4-4B17-B037-9372412C846A}|contract-service\\InsuranceServicesHex.Contract.Application\\InsuranceServicesHex.Contract.Application.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\insuranceserviceshex.contract.application\\interfaces\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D23272-5AB4-4B17-B037-9372412C846A}|contract-service\\InsuranceServicesHex.Contract.Application\\InsuranceServicesHex.Contract.Application.csproj|solutionrelative:contract-service\\insuranceserviceshex.contract.application\\interfaces\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EC5F23-B834-4B4A-BB06-319108F90148}|proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\insuranceserviceshex.proposal.application\\insuranceserviceshex.proposal.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86EC5F23-B834-4B4A-BB06-319108F90148}|proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj|solutionrelative:proposal-service\\insuranceserviceshex.proposal.application\\insuranceserviceshex.proposal.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EC5F23-B834-4B4A-BB06-319108F90148}|proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\insuranceserviceshex.proposal.application\\dtos\\updateproposalstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EC5F23-B834-4B4A-BB06-319108F90148}|proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj|solutionrelative:proposal-service\\insuranceserviceshex.proposal.application\\dtos\\updateproposalstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EC5F23-B834-4B4A-BB06-319108F90148}|proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\insuranceserviceshex.proposal.application\\dtos\\createproposaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EC5F23-B834-4B4A-BB06-319108F90148}|proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj|solutionrelative:proposal-service\\insuranceserviceshex.proposal.application\\dtos\\createproposaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB1E1EE-A938-40DB-94F5-77732E308177}|contract-service\\InsuranceServicesHex.Contract.Tests\\InsuranceServicesHex.Contract.Tests.csproj|c:\\filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\insuranceserviceshex.contract.tests\\insuranceserviceshex.contract.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDB1E1EE-A938-40DB-94F5-77732E308177}|contract-service\\InsuranceServicesHex.Contract.Tests\\InsuranceServicesHex.Contract.Tests.csproj|solutionrelative:contract-service\\insuranceserviceshex.contract.tests\\insuranceserviceshex.contract.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\tests\\InsuranceServicesHex.Proposal.Tests\\Tests\\ProposalServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proposal-service\\tests\\InsuranceServicesHex.Proposal.Tests\\Tests\\ProposalServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\DTOs\\ProposalDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\DTOs\\ProposalDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\Controllers\\ProposalsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\Controllers\\ProposalsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\src\\InsuranceServicesHex.Contract.Api\\DTOs\\CreateContractDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contract-service\\src\\InsuranceServicesHex.Contract.Api\\DTOs\\CreateContractDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\src\\InsuranceServicesHex.Contract.Api\\DTOs\\ContractDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contract-service\\src\\InsuranceServicesHex.Contract.Api\\DTOs\\ContractDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\src\\InsuranceServicesHex.Contract.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contract-service\\src\\InsuranceServicesHex.Contract.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\src\\InsuranceServicesHex.Contract.Api\\Controllers\\ContractsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contract-service\\src\\InsuranceServicesHex.Contract.Api\\Controllers\\ContractsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProposalDtos.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\DTOs\\ProposalDtos.cs",
+              "RelativeDocumentMoniker": "proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\DTOs\\ProposalDtos.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\DTOs\\ProposalDtos.cs",
+              "RelativeToolTip": "proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\DTOs\\ProposalDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:47:33.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContractRepository.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Application\\Services\\ContractRepository.cs",
+              "RelativeDocumentMoniker": "contract-service\\InsuranceServicesHex.Contract.Application\\Services\\ContractRepository.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Application\\Services\\ContractRepository.cs",
+              "RelativeToolTip": "contract-service\\InsuranceServicesHex.Contract.Application\\Services\\ContractRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:07:28.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContractDbContext.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Infrastructure\\Context\\ContractDbContext.cs",
+              "RelativeDocumentMoniker": "contract-service\\InsuranceServicesHex.Contract.Infrastructure\\Context\\ContractDbContext.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Infrastructure\\Context\\ContractDbContext.cs",
+              "RelativeToolTip": "contract-service\\InsuranceServicesHex.Contract.Infrastructure\\Context\\ContractDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAWwAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:22:08.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContractServiceTests.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Tests\\Tests\\ContractServiceTests.cs",
+              "RelativeDocumentMoniker": "contract-service\\InsuranceServicesHex.Contract.Tests\\Tests\\ContractServiceTests.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Tests\\Tests\\ContractServiceTests.cs",
+              "RelativeToolTip": "contract-service\\InsuranceServicesHex.Contract.Tests\\Tests\\ContractServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:27:14.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractRepository.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Infrastructure\\Repositories\\ContractRepository.cs",
+              "RelativeDocumentMoniker": "contract-service\\InsuranceServicesHex.Contract.Infrastructure\\Repositories\\ContractRepository.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Infrastructure\\Repositories\\ContractRepository.cs",
+              "RelativeToolTip": "contract-service\\InsuranceServicesHex.Contract.Infrastructure\\Repositories\\ContractRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:21:03.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\Program.cs",
+              "RelativeDocumentMoniker": "proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\Program.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\Program.cs",
+              "RelativeToolTip": "proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:48:05.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContractEntity.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Domain\\Entities\\ContractEntity.cs",
+              "RelativeDocumentMoniker": "contract-service\\InsuranceServicesHex.Contract.Domain\\Entities\\ContractEntity.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Domain\\Entities\\ContractEntity.cs",
+              "RelativeToolTip": "contract-service\\InsuranceServicesHex.Contract.Domain\\Entities\\ContractEntity.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:48:44.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProposalServiceTests.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\tests\\InsuranceServicesHex.Proposal.Tests\\Tests\\ProposalServiceTests.cs",
+              "RelativeDocumentMoniker": "proposal-service\\tests\\InsuranceServicesHex.Proposal.Tests\\Tests\\ProposalServiceTests.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\tests\\InsuranceServicesHex.Proposal.Tests\\Tests\\ProposalServiceTests.cs",
+              "RelativeToolTip": "proposal-service\\tests\\InsuranceServicesHex.Proposal.Tests\\Tests\\ProposalServiceTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:50:04.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProposalRepository.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\Repositories\\ProposalRepository.cs",
+              "RelativeDocumentMoniker": "proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\Repositories\\ProposalRepository.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\Repositories\\ProposalRepository.cs",
+              "RelativeToolTip": "proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\Repositories\\ProposalRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:46:23.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsuranceServicesHex.Proposal.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\InsuranceServicesHex.Proposal.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\InsuranceServicesHex.Proposal.Infrastructure.csproj",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\InsuranceServicesHex.Proposal.Infrastructure.csproj",
+              "RelativeToolTip": "proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\InsuranceServicesHex.Proposal.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T02:46:06.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProposalDbContext.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\Context\\ProposalDbContext.cs",
+              "RelativeDocumentMoniker": "proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\Context\\ProposalDbContext.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\Context\\ProposalDbContext.cs",
+              "RelativeToolTip": "proposal-service\\InsuranceServicesHex.Proposal.Infrastructure\\Context\\ProposalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:45:24.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProposalRepository.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Application\\Interfaces\\IProposalRepository.cs",
+              "RelativeDocumentMoniker": "proposal-service\\InsuranceServicesHex.Proposal.Application\\Interfaces\\IProposalRepository.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Application\\Interfaces\\IProposalRepository.cs",
+              "RelativeToolTip": "proposal-service\\InsuranceServicesHex.Proposal.Application\\Interfaces\\IProposalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:43:45.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Proposal.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Domain\\Entities\\Proposal.cs",
+              "RelativeDocumentMoniker": "proposal-service\\InsuranceServicesHex.Proposal.Domain\\Entities\\Proposal.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Domain\\Entities\\Proposal.cs",
+              "RelativeToolTip": "proposal-service\\InsuranceServicesHex.Proposal.Domain\\Entities\\Proposal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:42:49.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InsuranceServicesHex.Proposal.Domain.csproj",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Domain\\InsuranceServicesHex.Proposal.Domain.csproj",
+              "RelativeDocumentMoniker": "proposal-service\\InsuranceServicesHex.Proposal.Domain\\InsuranceServicesHex.Proposal.Domain.csproj",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Domain\\InsuranceServicesHex.Proposal.Domain.csproj",
+              "RelativeToolTip": "proposal-service\\InsuranceServicesHex.Proposal.Domain\\InsuranceServicesHex.Proposal.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T02:42:34.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProposalService.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Application\\Interfaces\\IProposalService.cs",
+              "RelativeDocumentMoniker": "proposal-service\\InsuranceServicesHex.Proposal.Application\\Interfaces\\IProposalService.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Application\\Interfaces\\IProposalService.cs",
+              "RelativeToolTip": "proposal-service\\InsuranceServicesHex.Proposal.Application\\Interfaces\\IProposalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:33:02.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProposalService.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Application\\Services\\ProposalService.cs",
+              "RelativeDocumentMoniker": "proposal-service\\InsuranceServicesHex.Proposal.Application\\Services\\ProposalService.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Application\\Services\\ProposalService.cs",
+              "RelativeToolTip": "proposal-service\\InsuranceServicesHex.Proposal.Application\\Services\\ProposalService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:33:40.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProposalsController.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\Controllers\\ProposalsController.cs",
+              "RelativeDocumentMoniker": "proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\Controllers\\ProposalsController.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\Controllers\\ProposalsController.cs",
+              "RelativeToolTip": "proposal-service\\src\\InsuranceServicesHex.Proposal.Api\\Controllers\\ProposalsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:41:00.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContractService.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Application\\Services\\ContractService.cs",
+              "RelativeDocumentMoniker": "contract-service\\InsuranceServicesHex.Contract.Application\\Services\\ContractService.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Application\\Services\\ContractService.cs",
+              "RelativeToolTip": "contract-service\\InsuranceServicesHex.Contract.Application\\Services\\ContractService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:36:09.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IContractService.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Application\\Interfaces\\IContractService.cs",
+              "RelativeDocumentMoniker": "contract-service\\InsuranceServicesHex.Contract.Application\\Interfaces\\IContractService.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Application\\Interfaces\\IContractService.cs",
+              "RelativeToolTip": "contract-service\\InsuranceServicesHex.Contract.Application\\Interfaces\\IContractService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:34:52.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateContractDto.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\src\\InsuranceServicesHex.Contract.Api\\DTOs\\CreateContractDto.cs",
+              "RelativeDocumentMoniker": "contract-service\\src\\InsuranceServicesHex.Contract.Api\\DTOs\\CreateContractDto.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\src\\InsuranceServicesHex.Contract.Api\\DTOs\\CreateContractDto.cs",
+              "RelativeToolTip": "contract-service\\src\\InsuranceServicesHex.Contract.Api\\DTOs\\CreateContractDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:34:22.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContractDtos.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\src\\InsuranceServicesHex.Contract.Api\\DTOs\\ContractDtos.cs",
+              "RelativeDocumentMoniker": "contract-service\\src\\InsuranceServicesHex.Contract.Api\\DTOs\\ContractDtos.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\src\\InsuranceServicesHex.Contract.Api\\DTOs\\ContractDtos.cs",
+              "RelativeToolTip": "contract-service\\src\\InsuranceServicesHex.Contract.Api\\DTOs\\ContractDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:14:12.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\src\\InsuranceServicesHex.Contract.Api\\Program.cs",
+              "RelativeDocumentMoniker": "contract-service\\src\\InsuranceServicesHex.Contract.Api\\Program.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\src\\InsuranceServicesHex.Contract.Api\\Program.cs",
+              "RelativeToolTip": "contract-service\\src\\InsuranceServicesHex.Contract.Api\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAWwDAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:24:37.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InsuranceServicesHex.Proposal.Application.csproj",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj",
+              "RelativeDocumentMoniker": "proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj",
+              "RelativeToolTip": "proposal-service\\InsuranceServicesHex.Proposal.Application\\InsuranceServicesHex.Proposal.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T02:32:26.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IContractRepository.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Application\\Interfaces\\IContractRepository.cs",
+              "RelativeDocumentMoniker": "contract-service\\InsuranceServicesHex.Contract.Application\\Interfaces\\IContractRepository.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Application\\Interfaces\\IContractRepository.cs",
+              "RelativeToolTip": "contract-service\\InsuranceServicesHex.Contract.Application\\Interfaces\\IContractRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:20:37.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateProposalStatusDto.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Application\\DTOs\\UpdateProposalStatusDto.cs",
+              "RelativeDocumentMoniker": "proposal-service\\InsuranceServicesHex.Proposal.Application\\DTOs\\UpdateProposalStatusDto.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Application\\DTOs\\UpdateProposalStatusDto.cs",
+              "RelativeToolTip": "proposal-service\\InsuranceServicesHex.Proposal.Application\\DTOs\\UpdateProposalStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:31:45.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateProposalDto.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Application\\DTOs\\CreateProposalDto.cs",
+              "RelativeDocumentMoniker": "proposal-service\\InsuranceServicesHex.Proposal.Application\\DTOs\\CreateProposalDto.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\proposal-service\\InsuranceServicesHex.Proposal.Application\\DTOs\\CreateProposalDto.cs",
+              "RelativeToolTip": "proposal-service\\InsuranceServicesHex.Proposal.Application\\DTOs\\CreateProposalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:31:14.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ContractsController.cs",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\src\\InsuranceServicesHex.Contract.Api\\Controllers\\ContractsController.cs",
+              "RelativeDocumentMoniker": "contract-service\\src\\InsuranceServicesHex.Contract.Api\\Controllers\\ContractsController.cs",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\src\\InsuranceServicesHex.Contract.Api\\Controllers\\ContractsController.cs",
+              "RelativeToolTip": "contract-service\\src\\InsuranceServicesHex.Contract.Api\\Controllers\\ContractsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:29:57.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InsuranceServicesHex.Contract.Tests.csproj",
+              "DocumentMoniker": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Tests\\InsuranceServicesHex.Contract.Tests.csproj",
+              "RelativeDocumentMoniker": "contract-service\\InsuranceServicesHex.Contract.Tests\\InsuranceServicesHex.Contract.Tests.csproj",
+              "ToolTip": "C:\\Filipe\\insurance-services-hex\\insurance-services-hex\\contract-service\\InsuranceServicesHex.Contract.Tests\\InsuranceServicesHex.Contract.Tests.csproj",
+              "RelativeToolTip": "contract-service\\InsuranceServicesHex.Contract.Tests\\InsuranceServicesHex.Contract.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T02:26:48.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

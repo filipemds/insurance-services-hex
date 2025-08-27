@@ -1,0 +1,6 @@
+@InsuranceServicesHex.Contract.Api_HostAddress = http://localhost:5122
+
+GET {{InsuranceServicesHex.Contract.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

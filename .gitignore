@@ -1,0 +1,53 @@
+# Build results
+bin/
+obj/
+out/
+publish/
+*.exe
+*.dll
+*.log
+*.cache
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vscode/
+
+# VS Code / Rider / Visual Studio
+.vscode/
+.idea/
+*.sw?
+*.DS_Store
+
+# Test results
+TestResult*/
+[Ll]og/
+*.coverage
+*.coveragexml
+
+# EF Core Migrations snapshots
+*Migrations/*.Designer.cs
+
+# Docker
+docker-compose.override.yml
+*.local.yml
+.env
+.docker/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Other
+Thumbs.db
+*.tmp
+*.bak
+*.backup
+*.db
